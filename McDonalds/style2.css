@@ -1,0 +1,10 @@
+#container{
+    display: flex;
+    background-color: aqua;
+}
+#container div{
+    display: flex;
+    background-color: yellowgreen;
+    align-items: center;
+    margin: 20px;
+}
